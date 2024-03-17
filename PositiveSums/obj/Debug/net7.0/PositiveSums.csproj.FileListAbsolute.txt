@@ -1,0 +1,15 @@
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.csproj.AssemblyReference.cache
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.AssemblyInfoInputs.cache
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.AssemblyInfo.cs
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.csproj.CoreCompileInputs.cache
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/bin/Debug/net7.0/PositiveSums
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/bin/Debug/net7.0/PositiveSums.deps.json
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/bin/Debug/net7.0/PositiveSums.runtimeconfig.json
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/bin/Debug/net7.0/PositiveSums.dll
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/bin/Debug/net7.0/PositiveSums.pdb
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.dll
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/refint/PositiveSums.dll
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.pdb
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/PositiveSums.genruntimeconfig.cache
+/Users/qozeemodeniran/projects/Coding Assessments/PositiveSums/obj/Debug/net7.0/ref/PositiveSums.dll
