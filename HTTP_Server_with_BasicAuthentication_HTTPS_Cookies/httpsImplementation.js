@@ -1,12 +1,13 @@
 const https = require('https');
 const fs = require('fs');
+
+// Load the configuration file that contains the passphrase for the private key
 const config = require('./config.json');
 
 // Define the path to your SSL/TLS certificate and private key
 const options = {
     // openssl genpkey -algorithm RSA -out private-key.pem -aes256
     key: fs.readFileSync('private-key.pem'),
-    //passphrase: 'testing',
     passphrase: config.passphrase,
 
     // openssl req -new -key private-key.pem -x509 -days 365 -out certificate.pem
