@@ -1,0 +1,15 @@
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/bin/Debug/net7.0/reverse
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/bin/Debug/net7.0/reverse.deps.json
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/bin/Debug/net7.0/reverse.runtimeconfig.json
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/bin/Debug/net7.0/reverse.dll
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/bin/Debug/net7.0/reverse.pdb
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.csproj.AssemblyReference.cache
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.AssemblyInfoInputs.cache
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.AssemblyInfo.cs
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.csproj.CoreCompileInputs.cache
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.dll
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/refint/reverse.dll
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.pdb
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/reverse.genruntimeconfig.cache
+/Users/qozeemodeniran/projects/Coding Assessments/fd_at_DNR/reverse/obj/Debug/net7.0/ref/reverse.dll
